@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">offer</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">slide</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-types</taxonomy>
+	</taxonomies>
+	<admin-texts>
+        <key name="cake">     
+            <key name="meta-description" />
+            <key name="meta-keywords" />
+            <key name="single-sidebar" />
+            <key name="blog-readmore" />
+            <key name="blog-page" />
+            <key name="portfolio-page" />
+            <key name="top-bar-phone" />
+            <key name="top-bar-email" />
+            <key name="action-button-text" />
+            <key name="action-button-link" />
+            <key name="footer-copy" />
+            <key name="translate-search-placeholder" />
+            <key name="translate-home" />
+        </key>
+    </admin-texts>
+</wpml-config>

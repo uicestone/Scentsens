@@ -1,0 +1,158 @@
+/* ------------------------- .clearfix -------------------------- */
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+.clearfix { display: inline-block;}
+html[xmlns] .clearfix { display: block;}
+* html .clearfix { height: 1%;}
+
+
+/* ------------------------- #mfn-builder -------------------------- */
+#mfn-builder { min-width:470px; position: relative; padding-bottom:15px; border-bottom: 1px solid #E5E5E5;}
+#mfn-go-to-top { text-indent:-9999px; display:block; width:50px; height:50px; position:fixed; bottom:20px; right:20px; z-index:2; background:#1ABC9C url(../img/ico-top.png) center no-repeat;}
+#mfn-go-to-top:hover { background-color:#11A285;}
+
+#mfn-desk { display:block; background:#fff; padding:10px 10px 0; position:relative;}
+.mfn-placeholder { margin: 0 0 10px 0 !important; padding:0 !important; height: 125px; float: left; background-color: #F0F1F1;}
+.mfn-row .mfn-placeholder { margin: 3px !important; }
+
+.mfn-item-1-4 { width: 25%;}
+.mfn-item-1-3 { width: 33.33%;}
+.mfn-item-1-2 { width: 50%;}
+.mfn-item-2-3 { width: 66.67%;}
+.mfn-item-3-4 { width: 75%;}
+.mfn-item-1-1 { width: 100%;}
+
+
+/* ------------------------- .mfn-element -------------------------- */
+.mfn-element { float:left; }
+
+.mfn-element-content { position:relative; background:#fcfcfc; margin-bottom:10px;}
+
+.mfn-element-header { background:#f8f9f9; height:34px; border-bottom:1px solid #dfe0e0;}
+.mfn-element:hover > .mfn-element-content > .mfn-element-header { background-color:#f0f1f1;}
+.mfn-element-header .mfn-element-tools { cursor:pointer; position:absolute; top:0; right:0;}
+.mfn-element-header .mfn-element-btn { width:34px; height:34px; display:block; float:left; background-color:#f0f1f1; border-left:1px solid #dfe0e0; background-position:center; background-repeat:no-repeat; text-indent:-9999px;}
+.mfn-element-header .mfn-element-btn:hover {  background-color:#e1e4e4; }
+.mfn-element-header .mfn-element-edit { background-image:url(../img/ico-edit.png); }
+.mfn-element-header .mfn-element-clone { background-image:url(../img/ico-clone.png); }
+.mfn-element-header .mfn-element-delete { background-image:url(../img/ico-delete.png); }
+.mfn-element-header .mfn-element-delete:hover { background-color:#FB5656; }
+
+.mfn-element-content .mfn-droppable { margin:0; padding:5px; width:100%; min-height:50px;
+	-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.mfn-element .mfn-element-meta { display:none;}
+
+
+/* ------------------------- #mfn-rows -------------------------- */
+#mfn-rows { display:none;} 
+
+.mfn-row-add .form-table tr { border-bottom:none !important;}
+.mfn-row-add .form-table tr td { padding-left:0 !important;}
+
+.mfn-row-add .mfn-row-add-btn { border:2px dashed #e4e4e4 !important; display:block; float:left; text-align:center; width:75%; color:#2f4052 !important; padding:5px 0 !important; float:left;}
+.mfn-row-add .mfn-row-add-btn em { background:url(../img/ico-add-section.png) no-repeat center; width:14px; height:14px; display:inline-block; margin-right:5px;}
+
+.mfn-row-add .logo { text-indent:-9999px; background:url(../img/logo.png) no-repeat center; height:48px; float:right; width:24%;}
+
+.mfn-row { width:100%;}
+
+.mfn-item-add { position:relative;}
+.mfn-item-add .mfn-item-add-btn { background:#1abc9c url(../img/ico-select-arrow.png) no-repeat 180px center; width:25%; height:34px; line-height:34px; display:block; color:#fff !important; text-decoration:none !important; font-size:14px; font-weight:600; text-align:center; border-bottom:1px solid #17a98c; }
+.mfn-item-add .mfn-item-add-btn:hover { background-color:#11a285;}
+
+.mfn-item-add ul.mfn-item-add-list { position:absolute; top:auto; left:0; background:#11a285; margin:0; padding:0; display:none; z-index:101; width:100%;}
+.mfn-item-add.focus ul.mfn-item-add-list { display:block;}
+
+.mfn-item-add ul.mfn-item-add-list li { float:left; margin-bottom:0; width:25%;}
+.mfn-item-add ul.mfn-item-add-list li a { color:#c9fcf2 !important; text-decoration:none !important; text-align:center; display:block; height:30px; line-height:30px; border-bottom:1px solid #0a9277; border-right:1px solid #0a9277;}
+.mfn-item-add ul.mfn-item-add-list li a:hover { color:#fff !important; background:#0a9277;}
+.mfn-item-add ul.mfn-item-add-list li:nth-child(4n+4) a { border-right-style:transparent;}
+
+
+/* ------------------------- #mfn-items -------------------------- */
+#mfn-items { display:none;}
+
+.mfn-item .mfn-element-content { background:#fff; margin:3px;}
+
+.mfn-item .mfn-element-header { background:#f2f6f8; height:24px; border-bottom:1px solid #ededed;}
+.mfn-item:hover .mfn-element-header { background-color:#e9eff2 !important;}
+.mfn-item .mfn-element-header .mfn-element-btn { width:24px; height:24px; background-color:#e9eff2; border-left-color:#d9dee1; }
+.mfn-item .mfn-element-header .mfn-element-btn:hover {  background-color:#d6dee2; }
+.mfn-item .mfn-element-header .mfn-element-edit { background-image:url(../img/ico-edit-small.png); }
+.mfn-item .mfn-element-header .mfn-element-clone { background-image:url(../img/ico-clone-small.png); }
+.mfn-item .mfn-element-header .mfn-element-delete { background-image:url(../img/ico-delete-small.png); }
+.mfn-item .mfn-element-header .mfn-element-delete:hover { background-color:#FB5656; }
+
+.mfn-item .mfn-item-size { float:left; }
+.mfn-item .mfn-item-size .mfn-element-btn { background-color:#516477; border-left:none; border-right:1px solid #4b5d6f;}
+.mfn-item .mfn-item-size .mfn-element-btn:hover { background-color:#415161;}
+.mfn-item .mfn-item-size .mfn-item-size-dec { background-image:url(../img/ico-minus.png);}
+.mfn-item .mfn-item-size .mfn-item-size-inc { background-image:url(../img/ico-plus.png);}
+
+.mfn-item .mfn-item-desc { background-color:#415161; color:#b8c8d9; display:block; width:24px; float:left; text-align: center; height:24px; line-height:24px; font-size:10px;}
+
+.mfn-item .mfn-item-content { height:90px; text-align:center; border-bottom:10px solid #fff; overflow:hidden; padding:0 10px;}
+.mfn-item .mfn-item-content .mfn-item-title { display:block; color:#2f4052; font-size:14px; font-weight:600;}
+.mfn-item .mfn-item-content .mfn-item-label { color:#979fa8;}
+
+.mfn-item-divider .mfn-item-content,
+.mfn-item-divider .mfn-item-size a { display:none;}
+
+.mfn-item .mfn-item-icon { width:40px; height:35px; display:inline-block; margin:10px 0 5px; background-position:center; background-repeat:no-repeat;}
+
+.mfn-item-accordion .mfn-item-icon { background-image:url(../img/items/accordion.png);}
+.mfn-item-article_box .mfn-item-icon { background-image:url(../img/items/article_box.png);}
+.mfn-item-blockquote .mfn-item-icon { background-image:url(../img/items/blockquote.png);}
+.mfn-item-blog .mfn-item-icon { background-image:url(../img/items/blog.png);}
+.mfn-item-clients .mfn-item-icon { background-image:url(../img/items/clients.png);}
+.mfn-item-call_to_action .mfn-item-icon { background-image:url(../img/items/call_to_action.png);}
+.mfn-item-chart .mfn-item-icon { background-image:url(../img/items/chart.png);}
+.mfn-item-code .mfn-item-icon { background-image:url(../img/items/code.png);}
+.mfn-item-column .mfn-item-icon { background-image:url(../img/items/column.png);}
+.mfn-item-contact_box .mfn-item-icon { background-image:url(../img/items/contact_box.png);}
+.mfn-item-content .mfn-item-content .mfn-item-icon { background-image:url(../img/items/content.png);}
+.mfn-item-counter .mfn-item-icon { background-image:url(../img/items/quick_fact.png);}
+.mfn-item-fancy_heading .mfn-item-icon { background-image:url(../img/items/fancy_heading.png);}
+.mfn-item-faq .mfn-item-icon { background-image:url(../img/items/faq.png);}
+.mfn-item-feature_box .mfn-item-icon { background-image:url(../img/items/feature_box.png);}
+.mfn-item-icon_box .mfn-item-icon { background-image:url(../img/items/icon_box.png);}
+.mfn-item-image .mfn-item-icon { background-image:url(../img/items/image.png);}
+.mfn-item-info_box .mfn-item-icon { background-image:url(../img/items/info_box.png);}
+.mfn-item-latest_posts .mfn-item-icon { background-image:url(../img/items/latest_posts.png);}
+.mfn-item-map .mfn-item-icon { background-image:url(../img/items/map.png);}
+.mfn-item-offer .mfn-item-icon { background-image:url(../img/items/offer.png);}
+.mfn-item-our_team .mfn-item-icon { background-image:url(../img/items/our_team.png);}
+.mfn-item-portfolio .mfn-item-icon { background-image:url(../img/items/portfolio.png);}
+.mfn-item-portfolio_slider .mfn-item-icon { background-image:url(../img/items/portfolio_slider.png);}
+.mfn-item-pricing_item .mfn-item-icon { background-image:url(../img/items/pricing_item.png);}
+.mfn-item-progress_bars .mfn-item-icon { background-image:url(../img/items/progress_bars.png);}
+.mfn-item-progress_box .mfn-item-icon { background-image:url(../img/items/progress_box.png);}
+.mfn-item-quick_fact .mfn-item-icon { background-image:url(../img/items/quick_fact.png);}
+.mfn-item-quick_form .mfn-item-icon { background-image:url(../img/items/quick_form.png);}
+.mfn-item-tabs .mfn-item-icon { background-image:url(../img/items/tabs.png);}
+.mfn-item-testimonials .mfn-item-icon { background-image:url(../img/items/testimonials.png);}
+.mfn-item-testimonials_page .mfn-item-icon { background-image:url(../img/items/testimonials_page.png);}
+.mfn-item-timeline .mfn-item-icon { background-image:url(../img/items/timeline.png);}
+.mfn-item-video .mfn-item-icon { background-image:url(../img/items/video.png);}
+.mfn-item-video_box .mfn-item-icon { background-image:url(../img/items/video_box.png);}
+.mfn-item-vimeo .mfn-item-icon { background-image:url(../img/items/vimeo.png);}
+.mfn-item-youtube .mfn-item-icon { background-image:url(../img/items/youtube.png);}
+
+
+/* ------------------------- #mfn-popup --------------------------- */
+#mfn-popup { display:none; top:15px; left:0; width:100%; border: 1px solid #DFDFDF; background:#FCFCFC; z-index:5; position:relative;}
+#mfn-popup .mfn-element-meta { padding: 15px 15px 70px; }
+#mfn-popup textarea.full-width { max-width:100% !important;}
+
+#mfn-popup a.mfn-popup-save { position: absolute; right: 15px; bottom: 15px;}
+#mfn-popup a.mfn-popup-close { position: absolute; right: 15px; top: 15px;}
+
+
+/* ------------------------- .field-mfn-megamenu --------------------------- */
+.field-mfn-megamenu .description { font-size:11px; color:#939393;}
+
+
+/* ------------------------- TinyMCE 4 / WordPress 3.9+ --------------------------- */
+.mce-tinymce .mce-i-mfn-sc { background:url(../img/ico-shortcode.png) no-repeat center;}

@@ -1,0 +1,2697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cake\n"
+"POT-Creation-Date: 2014-02-13 16:37+0100\n"
+"PO-Revision-Date: 2014-02-13 16:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Muffin Group\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\cake\\wp-content\\themes\\cake\n"
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/404.php:10
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1291
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/404.php:11
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1299
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/404.php:12
+msgid "Please check entered address and try again or "
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/404.php:13
+msgid "go to homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/404.php:36
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/header-shop.php:29
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/header.php:29
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/header.php:110
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1284
+msgid "Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/index.php:19
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/taxonomy-portfolio-types.php:28
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-portfolio.php:27
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:66
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:66
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/content-single-portfolio.php:28
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1255
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/index.php:20
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1264
+msgid "Tags"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/index.php:21
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/taxonomy-portfolio-types.php:29
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-portfolio.php:28
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:17
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1273
+msgid "All"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/index.php:89
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/search.php:50
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/index.php:90
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/search.php:51
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/searchform.php:10
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/header-top-area.php:51
+msgid "Enter your search"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-archives.php:29
+msgid "Available Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-archives.php:36
+msgid "The 20 latest posts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-archives.php:52
+msgid "Archives by Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/template-archives.php:68
+msgid "Archives by Month"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:164
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:687
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:165
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:688
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:166
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:689
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:178
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:490
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:701
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:179
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1846
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:702
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:517
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1956
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1956
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:18
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:600
+msgid "Clients"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:19
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:172
+msgid "Client"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:20
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:20
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:20
+msgid "Add New"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:21
+msgid "Add New Client"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:22
+msgid "Edit Client"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:23
+msgid "New Client"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:24
+msgid "View Clients"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:25
+msgid "Search Clients"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:26
+msgid "No clients found"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:27
+msgid "No clients found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:56
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:64
+msgid "Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:58
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1173
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1226
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1437
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:67
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:67
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:289
+msgid "Order"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:92
+msgid "Client Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:101
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:438
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:476
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:948
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:997
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1294
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:125
+msgid "Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-client.php:102
+msgid "Link to client`s site"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:32
+msgid "-- Select --"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:35
+msgid "- Muffin Slider -"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:279
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:847
+msgid "Background Image"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:285
+msgid "Background Image position"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:286
+msgid "This option can be used only with your custom image selected above."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:301
+msgid "Background Color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:302
+msgid ""
+"Use color name (eg. \"gray\") or hex (eg. \"#808080\").<br /><br />Leave "
+"this field blank if you want to use transparent background."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:310
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:36
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:123
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:36
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:30
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:165
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:248
+msgid "Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:311
+msgid "Select layout for this section"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:312
+msgid ""
+"<strong>Notice:</strong> Sidebar for section will show <strong>only</strong> "
+"if you set Full Width Page Layout in Page Options below Content Builder."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:324
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:49
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:136
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:49
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:325
+msgid "Select sidebar for this section"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:332
+msgid "Padding Top"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:333
+msgid "Section Padding Top"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:334
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:344
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:801
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1484
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1493
+msgid "px"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:342
+msgid "Padding Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:343
+msgid "Section Padding Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:352
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:859
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1118
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1395
+msgid "Style"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:353
+msgid "Predefined styles for section"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:354
+msgid "For more advanced styles please use Custom CSS field below."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:368
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:866
+msgid "Custom CSS classes"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:369
+msgid ""
+"Multiple classes should be separated with SPACE.<br />For sections with "
+"centered text you can use class: <strong>center</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:380
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:393
+msgid "Accordion"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:387
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:426
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:585
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:645
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:671
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:784
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:826
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:883
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:916
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1071
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1251
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1326
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1359
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1511
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1290
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/tabs/field_tabs.php:34
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/tabs/field_tabs.php:45
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:394
+msgid "Manage accordion tabs."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:395
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:891
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1383
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1458
+msgid "You can use Drag & Drop to set the order."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:402
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:898
+msgid "Open First"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:403
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:899
+msgid "Open first tab at start."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:412
+msgid "Article box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:419
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:771
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:965
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:972
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1245
+msgid "Image"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:420
+msgid "Featured Image"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:432
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:462
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:591
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:627
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:730
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:832
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:922
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1279
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1332
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1365
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:618
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1135
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/tabs/field_tabs.php:36
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/tabs/field_tabs.php:47
+msgid "Content"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:445
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:484
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:955
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1005
+msgid "Open in new window"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:446
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:486
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:956
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1006
+msgid "Adds a target=\"_blank\" attribute to the link."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:455
+msgid "Blockquote"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:463
+msgid "Blockquote content."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:464
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:678
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1280
+msgid "HTML tags allowed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:470
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:113
+msgid "Author"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:477
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:126
+msgid "Link to company page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:485
+msgid "Open link in a new window."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:497
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:720
+msgid ""
+"Classic - transparent background<br />Modern - with background color set in "
+"Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:506
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:149
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1238
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1247
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1265
+msgid "Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:513
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1135
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1200
+msgid "Count"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:514
+msgid "Number of posts to show"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:522
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1143
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1209
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1420
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:524
+msgid "Select posts category"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:543
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1183
+msgid "Show pagination"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:544
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1184
+msgid ""
+"<strong>Notice:</strong> Pagination will <strong>not</strong> work if you "
+"put item on Homepage of WordPress Multilangual Site."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:553
+msgid "Chart"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:560
+msgid "Percent"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:561
+msgid "Number between 0-100"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:567
+msgid "Chart Label"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:568
+msgid "Text in chart icon"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:578
+msgid "Chart Position"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:607
+msgid "Items in Row"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:608
+msgid "Number of items in row"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:609
+msgid "Recommended number: 3-6"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:620
+msgid "Code"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:638
+msgid "Column"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:646
+msgid ""
+"This field is used as an Item Label in admin panel only and shows after page "
+"update."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:652
+msgid "Column content"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:653
+msgid "Shortcodes and HTML tags allowed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:664
+msgid "Contact Box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:677
+msgid "Address"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:684
+msgid "Telephone"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:690
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:696
+msgid "WWW"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:702
+msgid "Contact Button Text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:709
+msgid "Contact Button Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:737
+msgid ""
+"Adding this Item will show Content from WordPress Editor above Page Options. "
+"You can use it only once per page. Please also remember to turn on \"Hide "
+"The Content\" option."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:746
+msgid "Counter"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:753
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:839
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:928
+msgid "Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:754
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:840
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:929
+msgid "Font Awesome Icon, eg. <strong>icon-heart-line</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:762
+msgid "Icon Color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:763
+msgid "Use color name (eg. \"grey\") or hex (eg. \"#434343\")."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:772
+msgid "If you upload an image, icon will not show."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:778
+msgid "Number"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:793
+msgid "Divider"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:800
+msgid "Divider height"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:809
+msgid "Show line"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:810
+msgid "Display horizontal line as a divider."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:819
+msgid "Fancy Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:860
+msgid "Some fields above work on selected styles"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:867
+msgid ""
+"Multiple classes should be separated with SPACE.<br />For sections with dark "
+"background you can use class: <strong>dark</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:876
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:889
+msgid "FAQ"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:890
+msgid "Manage FAQ tabs."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:909
+msgid "Icon Box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:941
+msgid "Icon Position"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:978
+msgid "Alternate Text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:984
+msgid "Caption"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:990
+msgid "Zoomed image"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:991
+msgid "This image will be opened in lightbox."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:998
+msgid ""
+"This link will work only if you leave the above \"Zoomed image\" field empty."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1015
+msgid "Map"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1022
+msgid "Google Maps Lat"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1024
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1032
+msgid "The map will appear only if this field is filled correctly."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1030
+msgid "Google Maps Lng"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1038
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1492
+msgid "Height"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1047
+msgid "Zoom"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1058
+msgid "Our Team"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1065
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:64
+msgid "Photo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1072
+msgid "Will also be used as the image alternative text."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1078
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1298
+msgid "Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1084
+msgid "Phone"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1090
+msgid "E-mail"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1096
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:432
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1102
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:448
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1108
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:480
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1128
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:18
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:232
+msgid "Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1145
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1211
+msgid "Select the portfolio post category."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1164
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1217
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1428
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:280
+msgid "Order by"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1165
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1218
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:281
+msgid "Portfolio items order by column."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1174
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1227
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:290
+msgid "Portfolio items order."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1193
+msgid "Portfolio Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1201
+msgid ""
+"We <strong>do not</strong> recommend use more than 10 items, because site "
+"will be working slowly."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1238
+msgid "Pricing Item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1252
+msgid "Pricing item title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1258
+msgid "Currency"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1265
+msgid "Price"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1272
+msgid "Period"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1287
+msgid "Link title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1288
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1295
+msgid "Link will appear only if this field will be filled."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1301
+msgid "Featured text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1302
+msgid "Leave this field blank for standard item."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1309
+msgid "Border"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1310
+msgid "Show right border"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1319
+msgid "Progress Bars"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1333
+msgid ""
+"Please use <strong>[bar title=\"Title\" value=\"50\"]</strong> shortcodes "
+"here."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1343
+msgid "Progress Box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1350
+msgid "Value"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1351
+msgid "[0-100]"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1374
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1381
+msgid "Tabs"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1382
+msgid ""
+"To add an <strong>icon</strong> in Title field, please use the following "
+"code:<br/><br/>&lt;i class=\"icon-heart-line\"&gt;&lt;/i&gt; Tab Title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1396
+msgid "Vertical tabs works only for column widths: 1/2, 3/4 & 1/1"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1402
+msgid "Unique ID [optional]"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1403
+msgid "Allowed characters: \"a-z\" \"-\" \"_\""
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1404
+msgid ""
+"Use this option if you want to open specified tab from link.<br />For "
+"example: Your Unique ID is <strong>offer</strong> and you want to open 2nd "
+"tab, please use link: <strong>your-url/#offer-2</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1413
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1422
+msgid "Select the testimonial post category."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1429
+msgid "Testimonials order by column."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1438
+msgid "Testimonials order."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1449
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1456
+msgid "Timeline"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1457
+msgid ""
+"Please add <strong>date</strong> wrapped into <strong>span</strong> tag in "
+"Title field.<br/><br/>&lt;span&gt;2013&lt;/span&gt;Event Title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1467
+msgid "Video"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1474
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:154
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:67
+msgid "Video ID"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1475
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:155
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:68
+msgid "YouTube or Vimeo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1476
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:156
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:69
+msgid ""
+"It`s placed in every YouTube & Vimeo video, for example:<br /><br /"
+"><b>YouTube:</b> http://www.youtube.com/watch?v=<u>WoJhnRczeNg</u><br /"
+"><b>Vimeo:</b> http://vimeo.com/<u>62954028</u>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1483
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1504
+msgid "Video Box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1517
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1306
+msgid "Text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1523
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:163
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:76
+msgid "HTML5 mp4 video"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1524
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:164
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:77
+msgid "m4v [.mp4]"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1525
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:165
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:78
+msgid "<strong>Notice:</strong> HTML5 video works only in moden browsers."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-functions.php:1526
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:166
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:79
+msgid "video"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:17
+msgid "Page Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:26
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:113
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:26
+msgid "Hide the content"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:27
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:114
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:27
+msgid "Hide the content from the WordPress editor."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:28
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:115
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:28
+msgid ""
+"<strong>Turn it ON if you build content using Content Builder</strong>. Use "
+"the Content item if you want to display the Content from editor within the "
+"Content Builder."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:37
+msgid "Select layout for this page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:50
+msgid "Select sidebar for this page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:51
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:138
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:51
+msgid "Shows only if layout with sidebar is selected."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:58
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:145
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:58
+msgid "Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:59
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:146
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:59
+msgid "Select slider for this page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:60
+msgid ""
+"Select Muffin Slider or one from the list of available <a href=\"admin.php?"
+"page=revslider\">Revolution Sliders</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:67
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:201
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:85
+msgid "SEO Title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:68
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:75
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:82
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:202
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:209
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:216
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:86
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:93
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:100
+msgid "These settings overriddes theme options settings."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:74
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:208
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:92
+msgid "SEO Description"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-page.php:81
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:215
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:99
+msgid "SEO Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:19
+msgid "Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:21
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:22
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:23
+msgid "New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:24
+msgid "View Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:25
+msgid "Search Portfolio items"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:26
+msgid "No portfolio items found"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:27
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:48
+msgid "Portfolio categories"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:49
+msgid "Portfolio category"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:104
+msgid "Portfolio Item Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:124
+msgid "Select layout for this portfolio item."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:137
+msgid "Select sidebar for this portfolio item."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:147
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:60
+msgid ""
+"Select slider from the list of available <a href=\"admin.php?page=revslider"
+"\">Revolution Sliders</a>.<br/>Please also set a <strong>Featured Image</"
+"strong> that will be used in Latest Posts Slider."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:173
+msgid "Project description: Client"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:179
+msgid "Task"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:180
+msgid "Project description: Task"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:186
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:187
+msgid "Project description: Website"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-portfolio.php:193
+msgid "Show categories"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:17
+msgid "Post Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:37
+msgid "Select layout for this post"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-post.php:50
+msgid "Select sidebar for this post"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:21
+msgid "Add New Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:22
+msgid "Edit Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:23
+msgid "New Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:24
+msgid "View Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:25
+msgid "Search Testimonials"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:26
+msgid "No testimonials found"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:27
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:48
+msgid "Testimonial categories"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:49
+msgid "Testimonial category"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:104
+msgid "Testimonial Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:119
+msgid "Company"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/meta-testimonial.php:132
+msgid "Open link in a new window"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:158
+msgid "Next page &rsaquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:159
+msgid "&lsaquo; Prev page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:230
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:286
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:611
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1220
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:287
+msgid "You are here:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:295
+msgid "Archive by category"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:565
+msgid "comment"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:566
+msgid "comments"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:567
+msgid "comments off"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:690
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-functions.php:703
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:121
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:125
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:138
+msgid "sub item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:170
+msgid "Edit Menu Item"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:179
+msgid "URL"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:186
+msgid "Navigation Label"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:192
+msgid "Title Attribute"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:199
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:204
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:210
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:216
+msgid "Description"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:218
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:229
+msgid "Activate Mega Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:230
+msgid "This option can be used only for 1st level of Main Menu."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:236
+msgid "Move"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:237
+msgid "Up one"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:238
+msgid "Down one"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:241
+msgid "To the top"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:248
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:261
+msgid "Remove"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-mega-menu.php:262
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:94
+msgid "Cancel"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-menu.php:14
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/theme-menu.php:15
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:17
+msgid "Use this widget on pages to display photos from Flickr photostream."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:18
+msgid "Muffin Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:71
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:103
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-comments.php:84
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-posts.php:108
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:89
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:76
+msgid "Flickr User ID:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:78
+msgid ""
+"Use <a href=\"http://idgettr.com/\" target=\"_blank\">this</a> tool to find "
+"your Flickr user ID"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:82
+msgid "Number of photos:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:89
+msgid "Latest uploads"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-flickr.php:92
+msgid "Random photos"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-functions.php:62
+msgid "Footer Call to Action"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-functions.php:74
+msgid "Footer area"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-functions.php:85
+msgid "WooCommerce"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:17
+msgid ""
+"Use this widget on pages to display aside menu with children or siblings of "
+"the current page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:18
+msgid "Muffin Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:109
+msgid "Use current page title"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:114
+msgid "Show page siblings"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:117
+msgid "Show page children"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-menu.php:120
+msgid "Show page children (if there is no children, show siblings)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-comments.php:17
+msgid "The most recent comments."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-comments.php:18
+msgid "Muffin Recent Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-comments.php:89
+msgid "Number of comments:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-posts.php:17
+msgid "The most recent posts on your site."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-posts.php:18
+msgid "Muffin Recent Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-posts.php:113
+msgid "Category:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-recent-posts.php:126
+msgid "Number of posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:17
+msgid "Your most used tags in cloud format ."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:18
+msgid "Muffin Tag Cloud"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:94
+msgid "Number of tags:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:100
+msgid "Taxonomy:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:109
+msgid "Order by:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/widget-tag-cloud.php:117
+msgid "Order:"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:6
+msgid "You don't have permissions"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:13
+msgid "Shortcode Panel"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:33
+msgid "select"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/functions/tinymce/popup.php:98
+msgid "Insert"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/content-post.php:14
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/content-single.php:15
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1237
+msgid "By"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/content-post.php:15
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/includes/content-single.php:16
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1246
+msgid "In"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:42
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:44
+msgid "Cake Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:449
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:452
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:489
+msgid "Import & Export"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:465
+msgid "More Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:472
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:482
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:545
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:481
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:544
+msgid "Reset to Defaults"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:495
+msgid "Import Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:498
+msgid "Import from file"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:499
+msgid "Import from URL"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:503
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:508
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:513
+msgid "Import"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:514
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:521
+msgid "Export Options"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:522
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:525
+msgid "Copy"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:526
+msgid "Download"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/options.php:527
+msgid "Copy Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:24
+msgid "Getting started"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:36
+msgid "Colors"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:42
+msgid "Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:48
+msgid "Translate"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:60
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:311
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:523
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1196
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:67
+msgid "Responsive"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:68
+msgid ""
+"<b>Notice:</b> Responsive menu is working only with WordPress custom menu, "
+"please add one in Appearance > Menus and select it for Theme Locations "
+"section. <a href=\"http://en.support.wordpress.com/menus/\" target=\"_blank"
+"\">http://en.support.wordpress.com/menus/</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:76
+msgid "Use built-in SEO fields"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:77
+msgid "Turn it OFF if you want to use external SEO plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:85
+msgid "Meta Description"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:86
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:94
+msgid "These setting may be overridden for single posts & pages."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:93
+msgid "Meta Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:100
+msgid "Google Analytics"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:101
+msgid "Paste your Google Analytics code here."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:109
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:116
+msgid "Sidebars"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:117
+msgid "Manage custom sidebars"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:118
+msgid "Sidebars can be used on pages, blog and portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:124
+msgid "Single Post Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:125
+msgid "Use this option to force layout for all posts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:126
+msgid ""
+"This option can <strong>not</strong> be overriden and it is usefull for "
+"people who already have many posts and want to standardize their appearance."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:138
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:139
+msgid "Use this option to force sidebar for all posts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:140
+msgid ""
+"Paste the name of one of the sidebars that you added in the \"Sidebars\" "
+"section."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:156
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:239
+msgid "Posts per page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:157
+msgid "Number of posts per page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:166
+msgid "Layout for Blog Page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:178
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:179
+msgid "Read more link text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:180
+msgid "Leave blank if you don`t want the link on blog page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:187
+msgid "Show Post Meta"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:188
+msgid "Show Categories, Comments Number, Date, etc."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:196
+msgid "Show Author Box"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:204
+msgid "Show Related Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:212
+msgid "All pages in pagination"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:213
+msgid ""
+"Show all of the pages instead of a short list of the pages near the current "
+"page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:221
+msgid "Blog Page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:222
+msgid "Assign page for blog"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:223
+msgid ""
+"Use this option if you set <strong>Front page displays: Your latest posts</"
+"strong> in Settings > Reading"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:240
+msgid "Number of portfolio posts per page."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:249
+msgid "Layout for portfolio items list."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:262
+msgid "Portfolio Page"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:263
+msgid "Assign page for portfolio."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:270
+msgid "Single item slug"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:271
+msgid "Link to single item."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:272
+msgid ""
+"<b>Important:</b> Do not use characters not allowed in links. <br /><br /"
+">Must be different from the Portfolio site title chosen above, eg. "
+"\"portfolio-item\". After change please go to \"Settings > Permalinks\" and "
+"click \"Save changes\" button."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:298
+msgid "jQuery filtering"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:299
+msgid ""
+"When this option is enabled, portfolio looks great with all projects on "
+"single site, so please set \"Posts per page\" option to bigger number"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:317
+msgid "Homepage Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:318
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:572
+msgid "Homepage and subpages with header slider"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:331
+msgid "Homepage Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:337
+msgid "Homepage Retina Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:338
+msgid ""
+"Homepage Retina Logo should be 2x larger than Homepage Logo (field is "
+"optional)."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:344
+msgid "Subpage Layout"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:345
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:580
+msgid "Subpages without header slider"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:358
+msgid "Subpage Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:364
+msgid "Subpage Retina Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:365
+msgid "Retina Logo should be 2x larger than Logo (field is optional)."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:373
+msgid "Header & Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:379
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:380
+msgid "Site favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:381
+msgid "Please use ICO format only."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:387
+msgid "Sticky Header"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:395
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1221
+msgid "Breadcrumbs"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:403
+msgid "Action Button Text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:410
+msgid "Action Button Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:416
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:417
+msgid "Leave this field blank to show a default copyright."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:425
+msgid "Social Icons"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:433
+msgid "Type your Facebook link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:434
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:442
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:450
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:458
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:466
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:474
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:482
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:490
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:498
+msgid "Icon won`t show if you leave this field blank"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:440
+msgid "Google +"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:441
+msgid "Type your Google + link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:449
+msgid "Type your Twitter link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:456
+msgid "Vimeo"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:457
+msgid "Type your Vimeo link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:464
+msgid "YouTube"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:465
+msgid "Type your YouTube link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:472
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:473
+msgid "Type your Flickr link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:481
+msgid "Type your LinkedIn link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:488
+msgid "Pinterest"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:489
+msgid "Type your Pinterest link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:496
+msgid "Dribbble"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:497
+msgid "Type your Dribbble link here"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:506
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:512
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:513
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:530
+msgid "Theme Skin"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:531
+msgid "Choose one of the predefined styles or set your own colors"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:532
+msgid ""
+"<strong>Important:</strong> Color options can be used only with the "
+"<strong>Custom Skin</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:546
+msgid "Body background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:555
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:562
+msgid "Main Menu Active Link"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:563
+msgid "Active, hover & border color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:564
+msgid "For White Header only"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:571
+msgid "Homepage Header background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:579
+msgid "Subpage Header background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:587
+msgid "Page Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:594
+msgid "Breadcrumbs color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:601
+msgid "Subheader Button"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:602
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:685
+msgid "Color, border & hover background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:609
+msgid "Filter Hover background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:625
+msgid "Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:626
+msgid "Content text color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:633
+msgid "Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:640
+msgid "Link Hover color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:647
+msgid "Note color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:648
+msgid "eg. Post Meta"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:655
+msgid "Bold Note color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:656
+msgid "eg. Chart Label"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:663
+msgid "Highlight background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:670
+msgid "Highlight text color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:677
+msgid "Highlight Section background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:684
+msgid "Button Default"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:692
+msgid "Button Filled background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:699
+msgid "Button Filled color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:706
+msgid "Button Filled Hover background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:715
+msgid "Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:722
+msgid "Footer background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:729
+msgid "Footer Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:736
+msgid "Footer Heading color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:743
+msgid "Footer Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:750
+msgid "Footer Link Hover color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:757
+msgid "Footer Note color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:758
+msgid "Eg. Post Meta"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:765
+msgid "Footer Bottom Bar background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:766
+msgid "Copyright Text & Social Icons background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:773
+msgid "Footer Copyright color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:780
+msgid "Footer Social color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:787
+msgid "Footer Social Hover color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:796
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1231
+msgid "Blog & Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:803
+msgid "Blog Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:810
+msgid "Blog Quote Format background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:817
+msgid "Portfolio Image Icon background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:824
+msgid "Portfolio Image Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:831
+msgid "Portfolio Image Icon Hover background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:838
+msgid "Pager Arrow background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:845
+msgid "Pager Arrow Hover background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:854
+msgid "Accordion & Tabs"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:861
+msgid "Accordion Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:868
+msgid "Tab Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:875
+msgid "Tab Title background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:882
+msgid "Tab Title Active color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:883
+msgid "Big Icon Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:890
+msgid "Tab Title Active background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:891
+msgid "Tabs Content background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:898
+msgid "Tab Big Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:907
+msgid "Headings"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:914
+msgid "Heading H1 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:921
+msgid "Heading H2 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:928
+msgid "Heading H3 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:935
+msgid "Heading H4 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:942
+msgid "Heading H5 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:949
+msgid "Heading H6 color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:958
+msgid "Shortcodes"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:965
+msgid "Blockquote Modern background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:972
+msgid "Contact Box Modern background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:979
+msgid "Counter color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:986
+msgid "Fancy Heading Solid background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:993
+msgid "Icon Box color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1000
+msgid "Image Mask background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1007
+msgid "Image Mask Icon color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1014
+msgid "Pricing Box Price color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1021
+msgid "Pricing Box Ribbon background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1028
+msgid "Progress Bar Label background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1035
+msgid "Progress Bar background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1042
+msgid "Testimonials Pager Active"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1051
+msgid "Widgets & Shop"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1058
+msgid "Widget Title color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1065
+msgid "Widget Link color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1072
+msgid "WooCommerce Sale Label background"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1079
+msgid "WooCommerce Price color"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1088
+msgid "Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1094
+msgid "Content Font"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1095
+msgid "This font will be used for all theme texts except headings and menu."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1102
+msgid "Main Menu Font"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1103
+msgid "This font will be used for header menu."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1110
+msgid "Headings Font"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1111
+msgid "This font will be used for all headings."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1118
+msgid "Google Font Subset"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1119
+msgid ""
+"Specify which subsets should be downloaded. Multiple subsets should be "
+"separated with coma (,)"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1120
+msgid ""
+"Some of the fonts in the Google Font Directory support multiple scripts "
+"(like Latin and Cyrillic for example). In order to specify which subsets "
+"should be downloaded the subset parameter should be appended to the URL. For "
+"a complete list of available fonts and font subsets please see <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1129
+msgid "Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1136
+msgid "This font size will be used for all theme texts."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1143
+msgid "Main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1144
+msgid "This font size will be used for top level only."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1151
+msgid "Heading H1"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1152
+msgid "Subpages header title."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1159
+msgid "Heading H2"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1166
+msgid "Heading H3"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1173
+msgid "Heading H4"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1180
+msgid "Heading H5"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1187
+msgid "Heading H6"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1202
+msgid "Enable Translate"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1203
+msgid ""
+"Turn it off if you want to use .mo .po files for more complex translation."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1211
+msgid "Search Placeholder"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1212
+msgid "Widget Search"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1256
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1274
+msgid "Blog, Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1307
+msgid "Please check entered address and try again or"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1314
+msgid "Button"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/theme-options.php:1315
+msgid "Go To Homepage button"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/font_select/field_font_select.php:25
+msgid "Default Webfont"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/font_select/field_font_select.php:31
+msgid "System"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/font_select/field_font_select.php:37
+msgid "Popular Google Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/font_select/field_font_select.php:43
+msgid "Google Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/pages_select/field_pages_select.php:23
+msgid "-- select --"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/upload/field_upload.php:26
+msgid "Browse"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/fields/upload/field_upload.php:27
+msgid "Remove Upload"
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\cake\wp-content\themes\cake/muffin-options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
