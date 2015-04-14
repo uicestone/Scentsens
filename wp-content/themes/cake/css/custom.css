@@ -1,1 +1,73 @@
-/* If you want to add your own CSS code, please do it in this file */
+img.scale-with-grid {
+	max-height: 100%;
+}
+
+body.home #Top_bar {
+	display:none;
+}
+
+body:not(.home) #Header {
+	background-color: #83bed3; height: 212px; padding-top: 30px;
+}
+
+body:not(.home) #Top_bar {
+	height: 212px; background-position: center; background-size: cover;
+}
+
+body:not(.home) #Top_bar .logo {
+	display: none;
+}
+
+body:not(.home) #Subheader {
+	display: none;
+}
+
+body:not(.home) #Top_bar .menu_wrapper {
+	float: none;
+}
+
+body:not(.home) #Top_bar #menu {
+	float: none; margin: 68px 0 0 0; text-align: center;
+}
+
+body:not(.home) #Top_bar #searchform {
+	display: none;
+}
+
+body:not(.home) #Header .menu {
+	display: inline-block;
+}
+
+body:not(.home) #Header .menu > li > a {
+	padding: 2px 0px; margin: 10px 15px; color: #FFF; font-size: 17px;
+	font-weight: bold;
+}
+
+body:not(.home) #Header .menu > li > a:hover {
+	color: #FFF;
+}
+
+body:not(.home) #Header .menu > li.hover > a {
+	color: #FFF;
+}
+
+body:not(.home) #Header .menu > li > a:after, #Header .menu li ul li:hover > a span:after {
+	background: #FFF;
+}
+
+body:not(.home) #Header .menu > li.current-menu-item > a, #Header .menu > li.current_page_item > a, #Header .menu > li.current-menu-ancestor > a, #Header .menu > li.current_page_ancestor > a, #Header .menu > li > a:hover, #Header .menu > li.hover > a {
+	color: #83bed3;
+	font-weight: bold;
+}
+
+.section-post-header, .section-post-meta, .section-post-footer, .section-post-about, .section-post-related {
+	display: none;
+}
+
+body:not(.template-slider) #Content {
+	padding-top: 0;
+}
+
+.single-post .post-wrapper-content, .section-post-comments {
+	margin-bottom: 0;
+}
