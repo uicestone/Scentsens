@@ -2,6 +2,10 @@ img.scale-with-grid {
 	max-height: 100%;
 }
 
+.the_content_wrapper {
+	margin: 50px 8% 0;
+}
+
 body.home #Top_bar {
 	display:none;
 }
@@ -70,4 +74,29 @@ body:not(.template-slider) #Content {
 
 .single-post .post-wrapper-content, .section-post-comments {
 	margin-bottom: 0;
+}
+
+#Footer {
+	background-image: none;
+}
+
+#Footer .container .column:nth-child(1) {
+	width: 31.33%;
+}
+
+#Footer .container .column:nth-child(2) {
+	width: 64.67%;
+}
+
+#Footer h4, #Footer i {
+	color: #83bed3;
+}
+
+#Footer, #Footer a {
+	color: #231f20;
+}
+
+#Footer .brands {
+	width: 90%;
+	padding: 0 5%;
 }
