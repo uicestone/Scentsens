@@ -81,3 +81,14 @@ add_filter( 'user_can_richedit', function($c) {
 	return $c;
 });
 
+/**
+ * add post/page slug as a class in body
+ */
+add_filter('body_class', function ($classes){
+	global $post;
+	if ( isset( $post ) ) {
+		$classes[] = $post->post_type . '-' . $post->post_name;
+	}
+	return $classes;
+});
+

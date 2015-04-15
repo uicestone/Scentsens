@@ -6,6 +6,14 @@ img.scale-with-grid {
 	margin: 50px 8% 0;
 }
 
+.column.two-five {
+	width: 38%;
+}
+
+.column.three-five {
+	width: 58%;
+}
+
 body.home #Top_bar {
 	display:none;
 }
@@ -80,11 +88,11 @@ body:not(.template-slider) #Content {
 	background-image: none;
 }
 
-#Footer .container .column:nth-child(1) {
+#Footer .widgets_wrapper .container .column:nth-child(1) {
 	width: 31.33%;
 }
 
-#Footer .container .column:nth-child(2) {
+#Footer .widgets_wrapper .container .column:nth-child(2) {
 	width: 64.67%;
 }
 
@@ -101,20 +109,36 @@ body:not(.template-slider) #Content {
 	padding: 0 5%;
 }
 
-.post-in-page {
+#Footer .footer_copy {
+	padding-top: 10px;
+}
+
+#Footer .footer_copy .one {
+	margin-bottom: 10px;
+}
+
+#Footer .footer_copy .one .copyright {
+	float: right;
+}
+
+.page-perfume-module .post-in-page {
 	float: left;
 	width: 50%;
 	text-align: center;
 }
 
-.post-in-page img {
+.page-perfume-module .post-in-page img {
 	margin: 0 auto 15px;
 }
 
-.post-in-page h4, .post-in-page h5 {
+.page-perfume-module .post-in-page h4, .post-in-page h5 {
 	color: #83bed3;
 }
 
-.post-in-page h5 {
+.page-perfume-module .post-in-page h5 {
 	font-size: 15px;
+}
+
+.page-events-consultation .section_wrapper {
+	position: static;
 }
