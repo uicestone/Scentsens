@@ -26,13 +26,32 @@ add_shortcode('item', function($attr, $content){
 });
 
 add_shortcode('post', function($attrs_input){
-	$attrs = wp_parse_args($attrs_input);
+	$attrs_default = array(
+		'show_title'=>false,
+		'show_thumbnail'=>false
+	);
+	$attrs = wp_parse_args($attrs_input, $attrs_default);
 	$posts = get_posts($attrs);
 	if(!$posts){
 		return;
 	}
 	$post = $posts[0];
-	return apply_filters('the_content', wpautop($post->post_content));
+	
+	$out = '<div class="post-in-page post-' . $post->ID . '">';
+	
+	if($attrs['show_thumbnail']){
+		$out .= get_the_post_thumbnail($post->ID, false);
+	}
+	
+	if($attrs['show_title']){
+		$out .= '<h4>' . $post->post_title . '</h4>';
+	}
+	
+	$out .= apply_filters('the_content', wpautop($post->post_content));
+	
+	$out .= '</div>';
+	
+	return $out;
 });
 
 add_shortcode('site_url', function(){

@@ -100,3 +100,21 @@ body:not(.template-slider) #Content {
 	width: 90%;
 	padding: 0 5%;
 }
+
+.post-in-page {
+	float: left;
+	width: 50%;
+	text-align: center;
+}
+
+.post-in-page img {
+	margin: 0 auto 15px;
+}
+
+.post-in-page h4, .post-in-page h5 {
+	color: #83bed3;
+}
+
+.post-in-page h5 {
+	font-size: 15px;
+}
