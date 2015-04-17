@@ -234,3 +234,6 @@ body:not(.template-slider) #Content {
 	content: "\e600";
 }
 
+.icon_box .icon_wrapper i {
+	font-size: 50px;
+}
