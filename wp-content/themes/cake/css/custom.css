@@ -11,6 +11,10 @@ h5 {
 	line-height: 20px;
 }
 
+hr {
+	width: 50%;
+}
+
 img.scale-with-grid {
 	max-height: 100%;
 }
@@ -34,7 +38,7 @@ img.scale-with-grid {
 }
 
 body:not(.home) #Header {
-	background-color: #83bed3; height: 212px; padding-top: 30px;
+	height: 212px;
 }
 
 body:not(.home) #Top_bar {
@@ -101,7 +105,7 @@ body #Header .menu > li:last-child {
 	bottom: -70px;
 	width: 150px;
 	height: 46px;
-	background: url('http://scentsens.uice.lu/wp-content/uploads/2015/04/back-home.png');
+	background: url('../images/back-home.png');
 	background-size: contain;
 	left: 50%;
 	margin-left: -75px;
@@ -188,16 +192,12 @@ body:not(.template-slider) #Content {
 	position: static;
 }
 
-.page-events-consultation .content_wrapper {
-	background: url('http://scentsens.uice.lu/wp-content/uploads/2015/04/content-header-bg.png') repeat-x 0 36px;
-}
-
-.page-method-tools .content_wrapper {
-	background: url('http://scentsens.uice.lu/wp-content/uploads/2015/04/content-header-bg.png') repeat-x 0 48px;
+.the_content_wrapper ul {
+	margin: 0;
 }
 
 .the_content_wrapper ul li {
-	list-style-image: url('http://scentsens.uice.lu/wp-content/uploads/2015/04/bullets.png');
+	list-style: none;
 }
 
 #back_to_top {
